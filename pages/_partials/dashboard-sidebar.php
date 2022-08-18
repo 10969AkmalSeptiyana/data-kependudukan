@@ -2,7 +2,6 @@
 <ul
   class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion"
   id="accordionSidebar"
-  style="z-index: 1;"
 >
   <!-- Sidebar - Brand -->
   <a

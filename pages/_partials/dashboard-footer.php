@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="sticky-footer fixed-bottom bg-white" style="z-index: 0;">
+<footer class="sticky-footer bg-white">
   <div class="container my-auto">
     <div class="copyright text-center my-auto">
       <span>Copyright &copy; Kelompok Coklat JWD Uniku 2022</span>
