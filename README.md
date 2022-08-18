@@ -2,5 +2,8 @@
 
 ## Todo List:
 
-- Membuat Login dan Registrasi
-- Membuat Halaman Dashboard
+- ~~Membuat Halaman Login~~
+- ~~Membuat Halaman Dashboard~~
+- ~~Membuat Tabel Warga~~
+- ~~Membuat Tabel Kartu Keluarga~~
+- ~~Membuat Tabel User~~
