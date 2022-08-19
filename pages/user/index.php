@@ -57,7 +57,7 @@
                           <i class="fas fa-edit"></i>
                           Ubah
                         </a>
-                      <div class="dropdown-divider"></div>
+                        <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="delete.php?id_user=<?= $user['id_user'] ?>" onclick="return confirm('Yakin hapus data ini?')">
                           <i class="fas fa-trash"></i>
                           Hapus

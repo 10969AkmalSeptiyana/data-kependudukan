@@ -14,7 +14,7 @@
       <div class="container-fluid">
 
 <!-- Page Heading -->       
-<h1 class="h3 mb-0 text-gray-800">Data Warga</h1>
+<h1 class="h3 mb-0 text-gray-800">Data Kartu Keluarga</h1>
 <br>
 <?php include('_partials/menu.php') ?>
 
