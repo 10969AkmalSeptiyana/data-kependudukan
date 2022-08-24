@@ -109,4 +109,6 @@
 </div>
 <!-- End of Page Wrapper -->
 
+<?php include('../_partials/dashboard-logout.php'); ?>
+
 <?php include('../_partials/dashboard-bottom.php') ?>
