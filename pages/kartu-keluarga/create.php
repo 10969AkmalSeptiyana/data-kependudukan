@@ -109,7 +109,7 @@
       var id = $(this).find(":selected").val();
       var dataString = "wargaid=" + id;
       $.ajax({
-        url: "../../pages/kartu-keluarga/get-keluarga.php",
+        url: "get-keluarga.php",
         dataType: "json",
         data: dataString,
         cache: false,
